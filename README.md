@@ -11,8 +11,8 @@
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JueK3y&hide=SCSS,Less&show_icons=true&theme=tokyonight)
 ![JueK3y's github stats](https://github-readme-stats.vercel.app/api?username=JueK3y&show_icons=true&theme=tokyonight)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=juek3y.com&show_icons=true&theme=tokyonight)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Instagram-automated-commenting&show_icons=true&theme=tokyonight)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=juek3y.com&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/juek3y.com)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Instagram-automated-commenting&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Instagram-automated-commenting)
 <!-- ![JueK3y's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JueK3y&layout=compact&show_icons=true&theme=tokyonight) --> 
 <br>
 
