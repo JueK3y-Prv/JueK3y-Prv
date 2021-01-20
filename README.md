@@ -17,9 +17,7 @@
 <br>
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/julian-kennedy-907394200)
-[Instagram](https://www.instagram.com/jueK3y/)
-[Twitter](https://twitter.com/juek3y)
+[LinkedIn](https://www.linkedin.com/in/julian-kennedy-907394200) | [Instagram](https://www.instagram.com/jueK3y/) | [Twitter](https://twitter.com/juek3y)
 <!-- [<img align="left" alt="JueK3y.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="JueK3y | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JueK3y | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
