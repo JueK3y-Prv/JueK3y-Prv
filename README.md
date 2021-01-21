@@ -5,7 +5,7 @@
 - 🔭 I’m currently working [on my own Website](https://juek3y.com) and [IAC](https://github.com/JueK3y/Instagram-automated-commenting).
 - 🌱 I’m currently learning more about Python & JavaScript.
 - 📫 The best way to reach me is [via my website](https://juek3y.com/de/contact).
-- 😲 Fun fact: Actually I don't have time to program a website and other programs.
+- 😲 Good to know: The 〽️ in a repository description means that I am actively working on it.
 <br>
 
 ### 📌 Pinned Repos
