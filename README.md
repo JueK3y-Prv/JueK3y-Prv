@@ -17,11 +17,11 @@
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JueK3y&hide=SCSS,Less&show_icons=true&theme=tokyonight)
 ![JueK3y's github stats](https://github-readme-stats.vercel.app/api?username=JueK3y&show_icons=true&theme=tokyonight)
-![JueK3y's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JueK3y&layout=compact&show_icons=true&theme=tokyonight)
+[![JueK3y's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JueK3y&layout=compact&show_icons=true&theme=tokyonight)](https://wakatime.com/@JueK3y)
 
 <br>
 
-### 🌐 See me on other platforms:
+### 🌐 Visit me on other platforms:
 [LinkedIn](https://www.linkedin.com/in/julian-kennedy-907394200) | [Instagram](https://www.instagram.com/jueK3y/) | [Twitter](https://twitter.com/juek3y)
 <!-- [<img align="left" alt="JueK3y.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="JueK3y | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
