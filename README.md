@@ -5,6 +5,7 @@
 - 🔭 I’m currently working [on my own Website](https://juek3y.com) and [Project LVM](https://github.com/JueK3y/project-lvm).
 - 🌱 I’m currently learning more about Python & JavaScript.
 - 📫 The best way to reach me is [via my website](https://juek3y.com/de/contact).
+- 👾 I recently programmed my first Instagram bot. [Check it out!](https://github.com/JueK3y/Instagram-automated-commenting) Or see the [latest releases](https://github.com/JueK3y/Instagram-automated-commenting/releases).
 - 😲 Good to know: The 〽️ in a repository description means that I am actively working on it.
 <br>
 
