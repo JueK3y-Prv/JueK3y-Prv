@@ -3,7 +3,7 @@
 
 ### 📣 Latest release
 The latest release is of the Python program [Instagram Automated Commenting](https://github.com/JueK3y/Instagram-automated-commenting).
-<br>[Version 1.4.0](https://github.com/JueK3y/Instagram-automated-commenting/releases/tag/v1.4.0) was released on February 16, 2021 and is the last scheduled release for this program.
+<br>[Hotfix for version 1.4.0](https://github.com/JueK3y/Instagram-automated-commenting/releases/tag/v1.4.1) was released on March 27, 2021 and fixed some bugs related to the commenting.
 <br>[Go check it out 👾](https://github.com/JueK3y/Instagram-automated-commenting)
 
 <br>
