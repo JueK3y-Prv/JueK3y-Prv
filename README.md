@@ -9,7 +9,7 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 <br>
 
 ### ⚡ Quick Info
-- 🔭 I’m currently working [on my own Website](https://juek3y.com) and [Project LVM](https://github.com/JueK3y/project-lvm).
+- 🔭 I’m currently working [on my own Website](https://juek3y.com) and [Project LVM](type-error.netlify.app).
 - 👾 I recently programmed my first Instagram bot. [Check it out!](https://github.com/JueK3y/Instagram-automated-commenting) Or see the [latest releases](https://github.com/JueK3y/Instagram-automated-commenting/releases).
 - 🌱 I’m currently learning more about Python & JavaScript.
 - 📫 The best way to reach me is [via my website](https://juek3y.com/de/contact).
@@ -18,7 +18,8 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 
 ### 📌 Pinned Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=juek3y.com&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/juek3y.com)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=project-lvm&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/project-lvm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Instagram-automated-commenting&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Instagram-automated-commenting)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=project-lvm&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/project-lvm) -->
 
 <br>
 
