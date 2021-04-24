@@ -18,7 +18,7 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 
 ### 📌 Pinned Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=juek3y.com&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/juek3y.com)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Instagram-automated-commenting&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Instagram-automated-commenting)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/TypeError)
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=project-lvm&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/project-lvm) -->
 
 <br>
