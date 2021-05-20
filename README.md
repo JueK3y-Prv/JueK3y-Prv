@@ -16,10 +16,9 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 - 😲 Good to know: The 〽️ in a repository description means that I am actively working on it.
 <br>
 
-### 📌 Pinned Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=juek3y.com&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/juek3y.com)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/TypeError)
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=project-lvm&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/project-lvm) -->
+### 📌 Information sheets about current projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3yOrg/Project-JueK3y)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3yOrg/Project-TypeError)
 
 <br>
 
