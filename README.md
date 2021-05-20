@@ -19,6 +19,7 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 ### 📌 JueK3y's organisation Info Sheets
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3yOrg/Project-JueK3y)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3yOrg/Project-TypeError)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=JueK3yOrg&show_icons=true&theme=tokyonight)](https://github.com/JueK3yOrg/JueK3yOrg)
 
 <br>
 
