@@ -13,10 +13,12 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 - 👾 I recently programmed my first Instagram bot. [Check it out!](https://github.com/JueK3y/Instagram-automated-commenting) Or see the [latest releases](https://github.com/JueK3y/Instagram-automated-commenting/releases).
 - 🌱 I’m currently learning more about Python & JavaScript.
 - 📫 The best way to reach me is [via my website](https://juek3y.com/de/contact).
+- ❓ Code for current projects is published here. As soon as they are finished,
+<br>the repository will be published on [JueK3y's organization](https://github.com/JueK3y).
 - 😲 Good to know: The 〽️ in a repository description means that I am actively working on it.
 <br>
 
-### 💻 JueK3y's code for ongoing projects
+### 💻 Current projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y-Prv&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y-Prv/Project-JueK3y)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y-Prv&repo=Project-TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3y-Prv/Project-TypeError)
 
