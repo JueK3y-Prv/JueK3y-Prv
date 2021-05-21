@@ -38,7 +38,7 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 ### 📈 GitHub Stats
 [![JueK3y's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JueK3y-Prv&hide=SCSS,Less&show_icons=true&theme=tokyonight)](#)
 [![JueK3y's github stats](https://github-readme-stats.vercel.app/api?username=JueK3y-Prv&show_icons=true&theme=tokyonight)](#)
-[![JueK3y's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JueK3y-Prv&layout=compact&show_icons=true&theme=tokyonight)](https://wakatime.com/@JueK3y)
+[![JueK3y's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JueK3y&layout=compact&show_icons=true&theme=tokyonight)](https://wakatime.com/@JueK3y)
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JueK3y&hide=SCSS,Less&show_icons=true&theme=tokyonight"></p> -->
 <br>
 <br>
