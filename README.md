@@ -25,7 +25,7 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 ### 📑 Completed projects and information sheets
 <!-- Completed Projects -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Instagram-automated-commentingy&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Instagram-automated-commenting)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=/Cloud-Runner&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Cloud-Runner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Cloud-Runner&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Cloud-Runner)
 <!-- Information sheets for current projects -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Project-JueK3y)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Project-TypeError)
