@@ -17,14 +17,19 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 <br>
 
 ### 💻 JueK3y's code for ongoing projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Project-JueK3y)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y-Prv&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y-Prv/Project-JueK3y)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y-Prv&repo=Project-TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3y-Prv/Project-TypeError)
 
 <br>
 
-### 📑 JueK3y's organisation info sheets for ongoing projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3yOrg/Project-JueK3y)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3yOrg/Project-TypeError)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=JueK3yOrg&show_icons=true&theme=tokyonight)](https://github.com/JueK3yOrg/JueK3yOrg)
+### 📑 Completed projects and information sheets
+<!-- Completed Projects -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Instagram-automated-commentingy&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Instagram-automated-commenting)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=/Cloud-Runner&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Cloud-Runner)
+<!-- Information sheets for current projects -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Project-JueK3y)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Project-TypeError)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=What-is-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/What-is-JueK3y)
 
 <br>
 
