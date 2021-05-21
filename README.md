@@ -41,6 +41,6 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JueK3y&hide=SCSS,Less&show_icons=true&theme=tokyonight"></p>
 
 <br>
+<br>
 
-### 🌐 Visit me on other platforms:
-[LinkedIn](https://www.linkedin.com/in/julian-kennedy-907394200)  |  [Instagram](https://www.instagram.com/jueK3y/)  |  [Twitter](https://twitter.com/juek3y)
+<p align="center"><a href="https://www.linkedin.com/in/julian-kennedy-907394200">LinkedIn |</a><a href="https://www.instagram.com/jueK3y/"> Instagram |</a><a href="https://twitter.com/juek3y"> Twitter</a></p>
