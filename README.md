@@ -29,8 +29,8 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Instagram-automated-commenting&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Instagram-automated-commenting)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Cloud-Runner&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Cloud-Runner)
 <!-- Information sheets for current projects -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Project-JueK3y)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3yOrg&repo=Project-TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Project-TypeError)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Project-JueK3y)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Project-TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Project-TypeError)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=What-is-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/What-is-JueK3y)
 
 <br>
