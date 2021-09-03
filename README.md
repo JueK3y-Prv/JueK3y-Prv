@@ -20,13 +20,13 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 
 ### 💻 Current projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y-Prv&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y-Prv/Project-JueK3y)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Instagram-automated-commenting&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Instagram-automated-commenting)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y-Prv&repo=Project-TypeError&show_icons=true&theme=tokyonight)](https://github.com/JueK3y-Prv/Project-TypeError)
 
 <br>
 
 ### 📑 Completed projects and information sheets
 <!-- Completed Projects -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Instagram-automated-commenting&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Instagram-automated-commenting)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Cloud-Runner&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Cloud-Runner)
 <!-- Information sheets for current projects -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JueK3y&repo=Project-JueK3y&show_icons=true&theme=tokyonight)](https://github.com/JueK3y/Project-JueK3y)
