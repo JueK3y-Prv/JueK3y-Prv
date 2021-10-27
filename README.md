@@ -1,10 +1,10 @@
 ## Hi there,  I'm [JueK3y](https://juek3y.com) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-### 📣 Latest release
-The latest release is of the Python program [Instagram Automated Commenting](https://github.com/JueK3y/Instagram-automated-commenting).
-<br>[Hotfix for version 1.4.0](https://github.com/JueK3y/Instagram-automated-commenting/releases/tag/v1.4.3) was released on July 03, 2021 and fixed some bugs related to the commenting.
-<br>[Go check it out 👾](https://github.com/JueK3y/Instagram-automated-commenting)
+### 📣 Latest news
+The rebuilding of IAC and thus the launch of IAC 2.0 has started.
+<br>Currently no release date is known.
+<br>👾 Have a look at [IAC 2.0 here](https://github.com/JueK3y/Instagram-automated-commenting).
 
 <br>
 
