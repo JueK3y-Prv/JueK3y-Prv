@@ -9,7 +9,7 @@ The latest release is of the Python program [Instagram Automated Commenting](htt
 <br>
 
 ### ⚡ Quick Info
-- 🔭 I’m currently working [on my own Website](https://juek3y.com) and the [TypeError WebShop](https://type-error.netlify.app).
+- 🔭 I’m currently working [on my own Website](https://juek3y.com) and [IAC 2..0](https://github.com/JueK3y/Instagram-automated-commenting).
 - 👾 I recently programmed my first Instagram bot. [Check it out!](https://github.com/JueK3y/Instagram-automated-commenting) Or see the [latest releases](https://github.com/JueK3y/Instagram-automated-commenting/releases).
 - 🌱 I’m currently learning more about Python & JavaScript.
 - 📫 The best way to reach me is [via my website](https://juek3y.com/de/contact).
