@@ -42,4 +42,4 @@ The rebuilding of IAC and thus the launch of IAC 2.0 has started.
 <br>
 <br>
 
-<br><p align="center"><a href="https://www.linkedin.com/in/julian-kennedy-907394200">LinkedIn |</a><a href="https://www.instagram.com/jueK3y/"> Instagram |</a><a href="https://twitter.com/juek3y"> Twitter</a></p>
+<br><p align="center"><a href="https://www.instagram.com/jueK3y/"> Instagram |</a><a href="https://twitter.com/juek3y"> Twitter</a></p>
